@@ -3,4 +3,4 @@
 
 - 💻 Proficient in JavaScript, React, React Native, and Python. I have also worked with Java and machine learning.
 - 🧐 Currently learning Rust.
-- 📫 Reach me at: kakiwei@icloud.com
+- 📫 Reach me at: kakiwei@icloud.com.
